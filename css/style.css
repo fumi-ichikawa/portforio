@@ -207,6 +207,10 @@ hr {
 
 /* Image Opacity */
 
+.grid{
+  display: flex;
+  justify-content: space-around;
+}
 .grid img {
   opacity: .7;
   width: auto;
