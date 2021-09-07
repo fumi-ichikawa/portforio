@@ -209,6 +209,8 @@ hr {
 
 .grid img {
   opacity: .7;
+  width: auto;
+  height: 300px;
 }
 
 .grid img:hover {
