@@ -121,6 +121,7 @@ hr {
   width: 100%;
   padding-top: 250px;
   padding-bottom: 250px;
+  background-image: url(img/top.jpeg);
 }
 
 #hello h1 {
@@ -207,14 +208,14 @@ hr {
 
 /* Image Opacity */
 
-.grid{
+.port-img{
   display: flex;
   justify-content: space-around;
 }
 .grid img {
   opacity: .7;
   width: auto;
-  height: 300px;
+  height: 200px;
 }
 
 .grid img:hover {
